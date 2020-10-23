@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alicebob/sqlittle"
+	"github.com/deface90/sqlittle"
 )
 
 func TestScan(t *testing.T) {

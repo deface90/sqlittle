@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	sdb "github.com/alicebob/sqlittle/db"
+	sdb "github.com/deface90/sqlittle/db"
 )
 
 // change the pagesize

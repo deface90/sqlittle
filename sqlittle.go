@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	sdb "github.com/alicebob/sqlittle/db"
+	sdb "github.com/deface90/sqlittle/db"
 )
 
 type DB struct {

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/alicebob/sqlittle"
+	"github.com/deface90/sqlittle"
 )
 
 func TestNorthwind(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	sdb "github.com/alicebob/sqlittle/db"
+	sdb "github.com/deface90/sqlittle/db"
 )
 
 // A row with values as stored in the database. Use Row.Scan() to process these

@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/alicebob/sqlittle"
+	"github.com/deface90/sqlittle"
 )
 
 func TestExprCol(t *testing.T) {

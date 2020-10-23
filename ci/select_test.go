@@ -5,7 +5,7 @@ package ci
 import (
 	"testing"
 
-	"github.com/alicebob/sqlittle"
+	"github.com/deface90/sqlittle"
 )
 
 func TestSelect(t *testing.T) {

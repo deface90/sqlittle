@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/alicebob/sqlittle/sql"
+	"github.com/deface90/sqlittle/sql"
 )
 
 type Table struct {

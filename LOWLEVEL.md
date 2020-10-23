@@ -1,13 +1,13 @@
 # Low level interface
 
-The low level package (github.com/alicebob/sqlittle/db) deals with reading
+The low level package (github.com/deface90/sqlittle/db) deals with reading
 datafiles, locking, and reading SQL schemas. It provide various routines to iterate
 over table and index data, but it does not know how to connect an index to a
 data table, or exactly which columns are available in an index.
 
 ## examples
 
-See [godoc](https://godoc.org/github.com/alicebob/sqlittle/db) for all available
+See [godoc](https://godoc.org/github.com/deface90/sqlittle/db) for all available
 methods and examples, but the gist of a table scan is:
 
     db, _ := OpenFile("testdata/single.sqlite")

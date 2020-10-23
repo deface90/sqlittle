@@ -1,4 +1,4 @@
-module github.com/alicebob/sqlittle
+module github.com/deface90/sqlittle
 
 go 1.12
 
